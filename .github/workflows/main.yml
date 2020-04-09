@@ -1,3 +1,5 @@
+name: Un flux de taches pour mon fichier Bonjour Monde
+on: push
 jobs:
   build:
     name: Action Bonjour Monde
